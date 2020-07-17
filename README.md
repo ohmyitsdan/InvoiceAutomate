@@ -6,13 +6,14 @@
 
 ---
 
-**To Do:**
+**To Do:**~~~~
 
 - Add Feedback for User Added, Company Added
 - Update GUI to prettify
 - Add functionality to update google sheets with invoice info
 - Add option to save/delete .docx files
 - Add option to save .docx instead of .pdf
+- Add option to use different email services
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
