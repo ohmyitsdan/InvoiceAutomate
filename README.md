@@ -6,7 +6,7 @@
 
 ---
 
-**To Do:**~~~~
+**To Do:**
 
 - Add Feedback for User Added, Company Added
 - Update GUI to prettify
