@@ -8,12 +8,21 @@
 
 **To Do:**
 
-- Add Feedback for User Added, Company Added
-- Update GUI to prettify
-- Add functionality to update google sheets with invoice info
+- ~~Add Feedback for User Added, Company Added~~
+- ~~Update GUI to prettify~~
+- Edit Company/User Info
+- Add option to add multiple jobs to single invoice
+- Add functionality to update .csv with invoice info
 - Add option to save/delete .docx files
 - Add option to save .docx instead of .pdf
 - Add option to use different email services
+- Be able to review/edit old invoices
+- Scrape calendar/email to check if an invoice is due to be sent
+- Add default message to send/save new one
+- Path to save invoices
+- Add DB functionality with relationship between user and client
+- Chart to show income/outgoings
+- Track payment terms
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 

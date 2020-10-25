@@ -24,4 +24,7 @@ Invoices
 userinfo.json
 cinfo.json
 *.docx
+*.pdf
 !template.docx
+*.pickle
+credentials
